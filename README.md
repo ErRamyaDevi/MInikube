@@ -1,1 +1,1 @@
-# MInikube
+# Minikube
