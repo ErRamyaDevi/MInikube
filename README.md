@@ -105,6 +105,10 @@ $kubectl logs -f nginx
  
 $kubectl get pods
 $kubectl describe pod <containername>
+$kubectl delete pod <containername>
+$kubectl get pods
+$minikube ssh --> enterinto pod
+$curl <cluster-ip addr>  --> enter into cluster
 
 You can refer kubectl cheatsheet
 https://kubernetes.io/docs/reference/kubectl/quick-reference/
